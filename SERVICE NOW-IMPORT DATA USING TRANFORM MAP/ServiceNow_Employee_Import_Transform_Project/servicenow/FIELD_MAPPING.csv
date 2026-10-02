@@ -1,0 +1,6 @@
+Source Field,Target Field,Coalesce,Type,Notes
+Employee ID,Employee ID,TRUE,String,Unique matching field
+Employee Name,Employee Name,FALSE,String,Employee name
+Email,Email,FALSE,String,Employee email
+Department,Department,FALSE,String,Department name
+Location,Location,FALSE,String,Employee location

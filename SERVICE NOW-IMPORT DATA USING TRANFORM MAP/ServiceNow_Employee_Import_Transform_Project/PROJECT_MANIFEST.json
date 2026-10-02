@@ -1,0 +1,12 @@
+{
+  "project": "ServiceNow Employee Data Import, Transform Map & Analytics",
+  "generated_on": "2026-10-02",
+  "source_document": "Original_Project_Instructions.docx",
+  "synthetic_data": [
+    "data/Sample_Employee_Data.csv"
+  ],
+  "screenshots_required_from_user": true,
+  "team_number": "22",
+  "team_id": "6ab8b3e98c7cббе70672ef0b",
+  "college": "SRM MADURAI COLLEGE FOR ENGINEERING AND TECHNOLOGY"
+}
